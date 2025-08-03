@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "name": "The Enchanted Forest",
+    "title": "A magical journey through an ancient woodland",
+    "price": 120,
+    "category": "Fantasy",
+    "image": "https://img.freepik.com/free-vector/magic-forest-landscape-background_23-2148276433.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Shadows in the Hallway",
+    "title": "A spine-chilling horror from the unknown",
+    "price": 90,
+    "category": "Horror",
+    "image": "https://img.freepik.com/free-vector/horror-night-scene-with-haunted-house_1308-44935.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Rhythms of the Soul",
+    "title": "Explore the roots of musical expression",
+    "price": 85,
+    "category": "Music",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?uid=R201821155&ga=GA1.1.1314408803.1748269266&semt=ais_items_boosted&w=740"
+  },
+  {
+    "id": 4,
+    "name": "Love Across Oceans",
+    "title": "A romantic tale beyond borders",
+    "price": 75,
+    "category": "Romance",
+    "image": "https://img.freepik.com/free-vector/love-letters-envelope_53876-17822.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Hacking the Future",
+    "title": "A beginner's guide to ethical hacking",
+    "price": 130,
+    "category": "Technology",
+    "image": "https://img.freepik.com/free-vector/hand-drawn-flat-design-stack-books-illustration_23-2149341898.jpg?uid=R201821155&ga=GA1.1.1314408803.1748269266&semt=ais_items_boosted&w=740"
+  },
+  {
+    "id": 6,
+    "name": "Mindful Living",
+    "title": "Simple steps to inner peace",
+    "price": 60,
+    "category": "Self-Help",
+    "image": "https://img.freepik.com/free-vector/meditation-concept-illustration_114360-3877.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Zero to Hero in Python",
+    "title": "Master programming from scratch",
+    "price": 0,
+    "category": "Free",
+    "image": "https://img.freepik.com/free-vector/gradient-coding-concept_23-2148674302.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Legends of the East",
+    "title": "Ancient stories from Asian cultures",
+    "price": 110,
+    "category": "History",
+    "image": "https://img.freepik.com/free-vector/asian-temple-background-flat-style_23-2148167285.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Beginner’s Guide to Investing",
+    "title": "Smart money decisions for your future",
+    "price": 95,
+    "category": "Finance",
+    "image": "https://img.freepik.com/free-vector/investment-concept-illustration_114360-5446.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Galaxy Bound",
+    "title": "An epic sci-fi adventure",
+    "price": 105,
+    "category": "Science Fiction",
+    "image": "https://img.freepik.com/free-vector/space-background-with-flat-design_23-2148922275.jpg"
+  }
+]

@@ -11,9 +11,7 @@ function Banner() {
               <span className="text-pink-500">new everyday!!!</span>
             </h1>
             <p className="text-sm md:text-xl">
-              Lorem, ipsum dolor sit amet consectetur adipisicing elit. Dolor,
-              et totam. Tempora amet atque expedita, quae corrupti totam sed
-              pariatur corporis at veniam est voluptas animi!
+              BookNest is your go-to digital library. Explore thousands of eBooks and audiobooks anytime, anywhere. Easy access, endless knowledge, and stories for every reader — all in one place.
             </p>
             <label className="input input-bordered flex items-center gap-2">
               <svg
